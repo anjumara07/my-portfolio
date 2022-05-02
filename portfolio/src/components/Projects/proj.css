@@ -1,0 +1,57 @@
+.github {
+  size: 50px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #0e76a8;
+  color: white;
+  border-radius: 40px;
+}
+
+.github:hover {
+  size: 50px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+}
+
+.medium {
+  size: 50px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border-radius: 40px;
+  margin-left: 10px;
+}
+
+.medium:hover {
+  size: 50px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+  margin-left: 10px;
+}
+
+.web {
+  size: 50px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+  margin-left: 10px;
+}
+
+.web:hover {
+  size: 50px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: gray;
+  color: white;
+  border-radius: 40px;
+  margin-left: 10px;
+}
