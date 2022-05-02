@@ -1,5 +1,3 @@
-# My Portfolio
 
-### Home Page
 
 
